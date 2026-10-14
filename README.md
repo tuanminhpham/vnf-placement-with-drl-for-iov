@@ -1,4 +1,4 @@
-# VNF Placement in Internet of Vehicles
+# VNF Placement with Deep Reinforcement Learning for Internet of Vehicles
 
 Code and processed data for the evaluation of **Admission-Aware Sequential VNF Placement with Deep Reinforcement Learning for Internet of Vehicles**, by Tuan-Minh Pham, Anh-Duc Bui and Serge Fdida.
 
